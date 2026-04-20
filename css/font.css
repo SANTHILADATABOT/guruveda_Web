@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+@font-face {
+	font-family: 'Bamini';
+	src: url('font/Bamini.ttf');
+	src: local('Bamini normal'), local('Bamini'), url('font/Bamini.ttf') format('truetype');
+}
+
+
+
+

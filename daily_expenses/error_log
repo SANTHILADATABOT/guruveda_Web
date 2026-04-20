@@ -1,0 +1,2 @@
+[24-Jan-2020 09:35:09 UTC] PHP Parse error:  syntax error, unexpected '$s_photo' (T_VARIABLE), expecting ',' or ';' in /home/santhilagsoft/public_html/guruveda_marketing/daily_expenses/image_list.php on line 39
+[24-Jan-2020 09:35:28 UTC] PHP Parse error:  syntax error, unexpected '$s_photo' (T_VARIABLE), expecting ',' or ';' in /home/santhilagsoft/public_html/guruveda_marketing/daily_expenses/image_list.php on line 39

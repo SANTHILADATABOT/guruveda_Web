@@ -1,0 +1,21 @@
+/*@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600,700,300);*/
+.main-footer {
+    background: #f9f9f9;
+    padding: 10px;
+    color: #444;
+    border-top: 1px solid #1a82c1;
+	font-family: 'Source Sans Pro','Helvetica Neue',Helvetica,Arial,sans-serif;
+    font-weight: 400;
+}
+.glyphicon-plus-sign{color:#d95459;font-size:38px;}
+.space-hight{margin:0px 0px 16px 0px}
+
+.errorClass {
+  border: 1px solid red !important;
+}
+
+.successClass {
+  border: 1px solid green !important;
+}
+.logo img{    width: 30%;
+    margin-right: 20px;}

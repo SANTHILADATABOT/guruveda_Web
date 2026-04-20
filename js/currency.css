@@ -1,0 +1,5 @@
+/** resets **/
+.autocomplete-suggestions { border: 1px solid #999; background: #fff; cursor: default; overflow: auto; width:331px !important; }
+.autocomplete-suggestion { padding: 10px 5px; font-size: 14px; font-weight: bold; white-space: nowrap; overflow: hidden; }
+.autocomplete-selected { background: #c9e1ef; }
+.autocomplete-suggestions strong { font-weight: normal; color: #3399ff; }
